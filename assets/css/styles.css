@@ -17,15 +17,6 @@ header {
     margin-bottom: 20px;
 }
 
-/* .range-button {
-    background-color: #333;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin: 0 10px;
-    cursor: pointer;
-} */
-
 .character-details {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
